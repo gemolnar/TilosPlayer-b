@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilosPlayer.Server", "src\TilosPlayer.Server\TilosPlayer.Server.csproj", "{A0A566B0-DE89-4672-ADE6-20571354A7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilosPlayer.Client", "src\TilosPlayer.Client\TilosPlayer.Client.csproj", "{B47F2F5F-048C-40C1-8416-14EF3595E1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilosPlayer.Shared", "src\TilosPlayer.Shared\TilosPlayer.Shared.csproj", "{6B837135-30DD-46AE-B0EF-0812B26F0443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilosPlayer.Library", "src\TilosPlayer.Library\TilosPlayer.Library.csproj", "{B553A3AA-3762-4FAA-935B-5047B70E19D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A566B0-DE89-4672-ADE6-20571354A7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A566B0-DE89-4672-ADE6-20571354A7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A566B0-DE89-4672-ADE6-20571354A7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A566B0-DE89-4672-ADE6-20571354A7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47F2F5F-048C-40C1-8416-14EF3595E1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47F2F5F-048C-40C1-8416-14EF3595E1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47F2F5F-048C-40C1-8416-14EF3595E1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47F2F5F-048C-40C1-8416-14EF3595E1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B837135-30DD-46AE-B0EF-0812B26F0443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B837135-30DD-46AE-B0EF-0812B26F0443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B837135-30DD-46AE-B0EF-0812B26F0443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B837135-30DD-46AE-B0EF-0812B26F0443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B553A3AA-3762-4FAA-935B-5047B70E19D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B553A3AA-3762-4FAA-935B-5047B70E19D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B553A3AA-3762-4FAA-935B-5047B70E19D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B553A3AA-3762-4FAA-935B-5047B70E19D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7D3C2C-6823-464F-9170-2ED5A0E2B6B7}
+	EndGlobalSection
+EndGlobal
